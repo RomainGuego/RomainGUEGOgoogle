@@ -1,0 +1,169 @@
+a
+{
+    color: #5F6368;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+
+
+p
+{
+    color: #5F6368;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+
+
+.Top
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.UPSpace
+{
+    width: 15px;
+}
+
+
+.logogoogle
+{
+    text-align: center;
+    
+}
+
+
+.MidLine
+{
+    display:flex;
+    justify-content: center;
+}
+
+
+.MidSp
+{
+    width: 10px;
+}
+
+
+.Midbar
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.Grey
+{
+    border-top: 8px #F4F4F4 solid;
+    border-right: 15px #F4F4F4 solid;
+    border-bottom: 8px #F4F4F4 solid;
+    border-left: 15px #F4F4F4 solid;
+    border-radius: 2px;
+    background: #F4F4F4;
+    color: #5F6368
+}
+
+
+.blue
+{
+    border-top: 5px #4387FD solid;
+    border-right: 15px #4387FD solid;
+    border-bottom: 5px #4387FD solid;
+    border-left: 15px #4387FD solid;
+    border-radius: 2px;
+    background: #4387FD;
+    color: white;
+    font-weight: bold;
+}
+
+
+.bottomspace
+{
+    width: 15px;
+}
+
+
+.bottomLL
+{
+    display: flex;
+    justify-content: flex-start;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+
+
+.bottomLR
+{
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+
+
+.FontC
+{
+    color: #5F6368;
+}
+
+
+.godown
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+} 
+
+
+.bottomlineC
+{
+    display: flex;
+    justify-content: center;
+    background: #F4F4F4;
+    border-top: 1px #E4E4E4 solid;
+    width: 32%;
+}  
+
+
+.merge
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.label 
+{
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+
+input[type=search]
+{
+    width: 550px;
+    height: 45px;
+    border: 1px #E4E4E4 solid;
+    border-radius: 50px;
+}
+
+
+.bottomFont
+{
+    font-size: 15.8px;
+}
+.LogoHD
+{
+
+}
+
+
+.Menu
+{width: 30px}
+.GDlogo
+{width: 30px}
